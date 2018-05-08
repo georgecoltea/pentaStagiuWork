@@ -1,0 +1,11 @@
+/Users/georgecoltea/Desktop/PentaStagiu/RandomNumberGame/RandomNumberGame/bin/Debug/netcoreapp2.0/RandomNumberGame.deps.json
+/Users/georgecoltea/Desktop/PentaStagiu/RandomNumberGame/RandomNumberGame/bin/Debug/netcoreapp2.0/RandomNumberGame.runtimeconfig.json
+/Users/georgecoltea/Desktop/PentaStagiu/RandomNumberGame/RandomNumberGame/bin/Debug/netcoreapp2.0/RandomNumberGame.runtimeconfig.dev.json
+/Users/georgecoltea/Desktop/PentaStagiu/RandomNumberGame/RandomNumberGame/bin/Debug/netcoreapp2.0/RandomNumberGame.dll
+/Users/georgecoltea/Desktop/PentaStagiu/RandomNumberGame/RandomNumberGame/bin/Debug/netcoreapp2.0/RandomNumberGame.pdb
+/Users/georgecoltea/Desktop/PentaStagiu/RandomNumberGame/RandomNumberGame/obj/Debug/netcoreapp2.0/RandomNumberGame.csprojResolveAssemblyReference.cache
+/Users/georgecoltea/Desktop/PentaStagiu/RandomNumberGame/RandomNumberGame/obj/Debug/netcoreapp2.0/RandomNumberGame.csproj.CoreCompileInputs.cache
+/Users/georgecoltea/Desktop/PentaStagiu/RandomNumberGame/RandomNumberGame/obj/Debug/netcoreapp2.0/RandomNumberGame.AssemblyInfoInputs.cache
+/Users/georgecoltea/Desktop/PentaStagiu/RandomNumberGame/RandomNumberGame/obj/Debug/netcoreapp2.0/RandomNumberGame.AssemblyInfo.cs
+/Users/georgecoltea/Desktop/PentaStagiu/RandomNumberGame/RandomNumberGame/obj/Debug/netcoreapp2.0/RandomNumberGame.dll
+/Users/georgecoltea/Desktop/PentaStagiu/RandomNumberGame/RandomNumberGame/obj/Debug/netcoreapp2.0/RandomNumberGame.pdb
