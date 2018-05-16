@@ -1,0 +1,6 @@
+/Users/georgecoltea/Projects/StringUsage/StringUsage/bin/Debug/StringUsage.exe
+/Users/georgecoltea/Projects/StringUsage/StringUsage/bin/Debug/StringUsage.pdb
+/Users/georgecoltea/Projects/StringUsage/StringUsage/obj/x86/Debug/StringUsage.csprojResolveAssemblyReference.cache
+/Users/georgecoltea/Projects/StringUsage/StringUsage/obj/x86/Debug/StringUsage.csproj.CoreCompileInputs.cache
+/Users/georgecoltea/Projects/StringUsage/StringUsage/obj/x86/Debug/StringUsage.exe
+/Users/georgecoltea/Projects/StringUsage/StringUsage/obj/x86/Debug/StringUsage.pdb
