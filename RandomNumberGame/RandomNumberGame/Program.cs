@@ -6,37 +6,37 @@ namespace RandomNumberGame
 	{
 		static void Main(string[] args)
 		{
-			int randomNumber, userNumber;
-			string str;
+			int randomNumber;
+			string userInputLine;
 
 			Random random = new Random();
 			randomNumber = random.Next(0, 101);
 
-			bool ok = false;
+			int userNumber;
 
-			while(!ok){
+			do
+			{
 
 				Console.WriteLine("Please enter a number");
-				str = Console.ReadLine();
-				userNumber = int.Parse(str);
+				userInputLine = Console.ReadLine();
+				userNumber = int.Parse(userInputLine);
 
-				if(userNumber > randomNumber)
+				if (userNumber > randomNumber)
 				{
 					Console.WriteLine("The entered number is too big");
 					continue;
 				}
 				else
-					if(userNumber < randomNumber)
-				    {
-					    Console.WriteLine("The entered number is too small");
-					    continue;
-				    }
-               
-				Console.WriteLine("Well done! You guessed the number");
-				ok = true;
-				
+					if (userNumber < randomNumber)
+				{
+					Console.WriteLine("The entered number is too small");
+					continue;
+				}
 
-			}
+				Console.WriteLine("Well done! You guessed the number");
+
+
+			} while (userNumber != randomNumber);
 		}
 	}
 }

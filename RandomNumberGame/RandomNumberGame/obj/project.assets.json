@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/georgecoltea/Desktop/PentaStagiu/RandomNumberGame/RandomNumberGame/RandomNumberGame.csproj",
+      "projectUniqueName": "/Users/georgecoltea/Documents/pentaStagiuWork/RandomNumberGame/RandomNumberGame/RandomNumberGame.csproj",
       "projectName": "RandomNumberGame",
-      "projectPath": "/Users/georgecoltea/Desktop/PentaStagiu/RandomNumberGame/RandomNumberGame/RandomNumberGame.csproj",
+      "projectPath": "/Users/georgecoltea/Documents/pentaStagiuWork/RandomNumberGame/RandomNumberGame/RandomNumberGame.csproj",
       "packagesPath": "/Users/georgecoltea/.nuget/packages/",
-      "outputPath": "/Users/georgecoltea/Desktop/PentaStagiu/RandomNumberGame/RandomNumberGame/obj",
+      "outputPath": "/Users/georgecoltea/Documents/pentaStagiuWork/RandomNumberGame/RandomNumberGame/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
