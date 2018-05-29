@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{54AFB799-1138-4EB5-A991-D28E602BDC66}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ChatApp/Person.cs">
+    <Files>
+      <File FileName="ChatApp/Program.cs" Line="26" Column="4" />
+      <File FileName="ChatApp/Person.cs" Line="15" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ChatApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
