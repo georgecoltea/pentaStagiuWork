@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{B49B5C9B-DECB-4672-A408-1B708BDEBD4A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ReadFromFile/Program.cs">
+    <Files>
+      <File FileName="ReadFromFile/Program.cs" Line="87" Column="74" />
+      <File FileName="ReadFromFile/people.txt" Line="6" Column="7" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ReadFromFile PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

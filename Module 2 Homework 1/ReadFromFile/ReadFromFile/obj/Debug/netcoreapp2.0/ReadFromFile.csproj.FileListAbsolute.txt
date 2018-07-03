@@ -1,0 +1,11 @@
+/Users/georgecoltea/Projects/ReadFromFile/ReadFromFile/bin/Debug/netcoreapp2.0/ReadFromFile.deps.json
+/Users/georgecoltea/Projects/ReadFromFile/ReadFromFile/bin/Debug/netcoreapp2.0/ReadFromFile.runtimeconfig.json
+/Users/georgecoltea/Projects/ReadFromFile/ReadFromFile/bin/Debug/netcoreapp2.0/ReadFromFile.runtimeconfig.dev.json
+/Users/georgecoltea/Projects/ReadFromFile/ReadFromFile/bin/Debug/netcoreapp2.0/ReadFromFile.dll
+/Users/georgecoltea/Projects/ReadFromFile/ReadFromFile/bin/Debug/netcoreapp2.0/ReadFromFile.pdb
+/Users/georgecoltea/Projects/ReadFromFile/ReadFromFile/obj/Debug/netcoreapp2.0/ReadFromFile.csprojResolveAssemblyReference.cache
+/Users/georgecoltea/Projects/ReadFromFile/ReadFromFile/obj/Debug/netcoreapp2.0/ReadFromFile.csproj.CoreCompileInputs.cache
+/Users/georgecoltea/Projects/ReadFromFile/ReadFromFile/obj/Debug/netcoreapp2.0/ReadFromFile.AssemblyInfoInputs.cache
+/Users/georgecoltea/Projects/ReadFromFile/ReadFromFile/obj/Debug/netcoreapp2.0/ReadFromFile.AssemblyInfo.cs
+/Users/georgecoltea/Projects/ReadFromFile/ReadFromFile/obj/Debug/netcoreapp2.0/ReadFromFile.dll
+/Users/georgecoltea/Projects/ReadFromFile/ReadFromFile/obj/Debug/netcoreapp2.0/ReadFromFile.pdb
