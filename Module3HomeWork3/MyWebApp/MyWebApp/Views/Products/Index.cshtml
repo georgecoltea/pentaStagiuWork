@@ -1,0 +1,33 @@
+﻿@model IEnumerable<MyWebApp.Models.Product>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+
+@foreach (var item in Model) {
+    <div class="panel panel-default">
+        <div class="panel-heading">@Html.DisplayFor(modelItem => item.Name)</div>
+        <div class="panel-body">
+            @Html.DisplayNameFor(model => model.Details): @Html.DisplayFor(modelItem => item.Details)
+
+            @Html.DisplayNameFor(model => model.Price): @Html.DisplayFor(modelItem => item.Price)
+
+            @Html.DisplayNameFor(model => model.Size): @Html.DisplayFor(modelItem => item.Size)
+
+            @Html.DisplayNameFor(model => model.Category): <i>@Html.DisplayFor(modelItem => item.Category.Name)</i>
+
+            @Html.ActionLink("Edit", "Edit", new { id = item.Id }, new { @class = "btn btn-primary" }) |
+            @Html.ActionLink("Details", "Details", new { id = item.Id }, new { @class = "btn btn-info" }) |
+            @Html.ActionLink("Delete", "Delete", new { id = item.Id }, new { @class = "btn btn-danger" })
+        </div>
+    </div>
+    
+           
+      
+}
