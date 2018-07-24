@@ -36,12 +36,7 @@ namespace ReadFromFile
 
 		private static bool IsValid(string name)
         {
-            if (!Regex.IsMatch(name, @"^[\p{L}\p{M}]+$") || name.Trim().Equals(""))
-            {
-                return false;
-            }
-
-            return true;
+            return Regex.IsMatch(name, @"^[\p{L}\p{M}]+$");
         }
 
 		private static void RemoveName()
