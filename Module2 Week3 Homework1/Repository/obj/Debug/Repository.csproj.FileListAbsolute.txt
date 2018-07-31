@@ -1,0 +1,17 @@
+C:/Users/George/Desktop/PentaStagiuVara2018Homework-master/Module02Week03/Repository/bin/Debug/Repository.dll
+C:/Users/George/Desktop/PentaStagiuVara2018Homework-master/Module02Week03/Repository/bin/Debug/Repository.pdb
+C:/Users/George/Desktop/PentaStagiuVara2018Homework-master/Module02Week03/Repository/bin/Debug/Newtonsoft.Json.dll
+C:/Users/George/Desktop/PentaStagiuVara2018Homework-master/Module02Week03/Repository/bin/Debug/Newtonsoft.Json.xml
+C:/Users/George/Desktop/PentaStagiuVara2018Homework-master/Module02Week03/Repository/obj/Debug/Repository.csprojAssemblyReference.cache
+C:/Users/George/Desktop/PentaStagiuVara2018Homework-master/Module02Week03/Repository/obj/Debug/Repository.csproj.CoreCompileInputs.cache
+C:/Users/George/Desktop/PentaStagiuVara2018Homework-master/Module02Week03/Repository/obj/Debug/Repository.csproj.CopyComplete
+C:/Users/George/Desktop/PentaStagiuVara2018Homework-master/Module02Week03/Repository/obj/Debug/Repository.dll
+C:/Users/George/Desktop/PentaStagiuVara2018Homework-master/Module02Week03/Repository/obj/Debug/Repository.pdb
+/Users/georgecoltea/Desktop/Desktop/Module02Week3Homework1/Repository/bin/Debug/Repository.dll
+/Users/georgecoltea/Desktop/Desktop/Module02Week3Homework1/Repository/bin/Debug/Repository.pdb
+/Users/georgecoltea/Desktop/Desktop/Module02Week3Homework1/Repository/bin/Debug/Newtonsoft.Json.dll
+/Users/georgecoltea/Desktop/Desktop/Module02Week3Homework1/Repository/bin/Debug/Newtonsoft.Json.xml
+/Users/georgecoltea/Desktop/Desktop/Module02Week3Homework1/Repository/obj/Debug/Repository.csprojResolveAssemblyReference.cache
+/Users/georgecoltea/Desktop/Desktop/Module02Week3Homework1/Repository/obj/Debug/Repository.csproj.CoreCompileInputs.cache
+/Users/georgecoltea/Desktop/Desktop/Module02Week3Homework1/Repository/obj/Debug/Repository.dll
+/Users/georgecoltea/Desktop/Desktop/Module02Week3Homework1/Repository/obj/Debug/Repository.pdb

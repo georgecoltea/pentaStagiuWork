@@ -1,0 +1,9 @@
+/Users/georgecoltea/Desktop/Desktop/Module02Week3Homework1/Homework01/bin/Debug/Homework01.exe.config
+/Users/georgecoltea/Desktop/Desktop/Module02Week3Homework1/Homework01/bin/Debug/Homework01.exe
+/Users/georgecoltea/Desktop/Desktop/Module02Week3Homework1/Homework01/bin/Debug/Homework01.pdb
+/Users/georgecoltea/Desktop/Desktop/Module02Week3Homework1/Homework01/bin/Debug/Repository.dll
+/Users/georgecoltea/Desktop/Desktop/Module02Week3Homework1/Homework01/bin/Debug/Repository.pdb
+/Users/georgecoltea/Desktop/Desktop/Module02Week3Homework1/Homework01/obj/Debug/Homework1.csprojResolveAssemblyReference.cache
+/Users/georgecoltea/Desktop/Desktop/Module02Week3Homework1/Homework01/obj/Debug/Homework1.csproj.CoreCompileInputs.cache
+/Users/georgecoltea/Desktop/Desktop/Module02Week3Homework1/Homework01/obj/Debug/Homework01.exe
+/Users/georgecoltea/Desktop/Desktop/Module02Week3Homework1/Homework01/obj/Debug/Homework01.pdb
