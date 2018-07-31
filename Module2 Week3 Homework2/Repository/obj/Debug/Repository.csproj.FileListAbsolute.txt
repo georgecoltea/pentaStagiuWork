@@ -1,0 +1,9 @@
+C:\Users\George\Desktop\PentaStagiuVara2018Homework-master\Module02Week03\Repository\bin\Debug\Repository.dll
+C:\Users\George\Desktop\PentaStagiuVara2018Homework-master\Module02Week03\Repository\bin\Debug\Repository.pdb
+C:\Users\George\Desktop\PentaStagiuVara2018Homework-master\Module02Week03\Repository\bin\Debug\Newtonsoft.Json.dll
+C:\Users\George\Desktop\PentaStagiuVara2018Homework-master\Module02Week03\Repository\bin\Debug\Newtonsoft.Json.xml
+C:\Users\George\Desktop\PentaStagiuVara2018Homework-master\Module02Week03\Repository\obj\Debug\Repository.csprojAssemblyReference.cache
+C:\Users\George\Desktop\PentaStagiuVara2018Homework-master\Module02Week03\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+C:\Users\George\Desktop\PentaStagiuVara2018Homework-master\Module02Week03\Repository\obj\Debug\Repository.csproj.CopyComplete
+C:\Users\George\Desktop\PentaStagiuVara2018Homework-master\Module02Week03\Repository\obj\Debug\Repository.dll
+C:\Users\George\Desktop\PentaStagiuVara2018Homework-master\Module02Week03\Repository\obj\Debug\Repository.pdb
